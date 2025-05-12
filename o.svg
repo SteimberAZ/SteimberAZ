@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="svg2" viewBox="68.718 177.521 391.196 379.381" xmlns="http://www.w3.org/2000/svg">
+  <desc>Source: openclipart.org/detail/209545</desc>
+  <defs>
+    <path id="path-0" style="fill: none;" d="M 183.248 279.684 L 200.427 285.41 C 207.237 288.815 221.924 302.59 229.06 302.59"/>
+    <path id="path-1" style="fill: none;" d="M 221.90166356159858 311.1793035812828 L 265.70763867760456 321.48673061721513"/>
+    <path id="path-2" style="fill: none;" d="M 229.06 291.137 L 239.081 295.432 C 246.303 299.765 257.163 309.094 263.419 311.179"/>
+    <path id="path-3" style="fill: none;" d="M 213.312 286.842 L 227.628 301.158 C 233.716 310.29 239.948 317.772 247.671 325.496"/>
+    <path id="path-4" style="fill: none;" d="M 260.55554542007934 354.12801265772123 L 303.606519405218 341.2126810477155"/>
+    <path id="path-5" style="fill: none;" d="M 203.295 200.953 C 249.844 206.313 271.943 279.353 294.786 302.195 L 295.931 302.195"/>
+    <path id="path-6" style="fill: none;" d="M 203.295 200.953 C 249.844 206.313 271.943 279.353 294.786 302.195 L 295.931 302.195"/>
+    <path id="path-7" style="fill: none;" d="M 203.295 200.953 C 249.844 206.313 271.943 279.353 294.786 302.195 L 295.931 302.195"/>
+    <path id="path-8" style="fill: none;" d="M 203.295 200.953 C 249.844 206.313 271.943 279.353 294.786 302.195 L 295.931 302.195"/>
+  </defs>
+  <ellipse style="stroke-width: 1; stroke: rgba(255, 255, 255, 0); fill: rgb(255, 255, 255); transform-origin: 244.092px 362.717px;" cx="244.092" cy="362.717" rx="190.953" ry="150.772" transform="matrix(0.944867, -0.327455, 0.030331, 1.047839, 27.917456, 18.056542)"/>
+  <ellipse style="fill: rgb(0, 208, 255); transform-box: fill-box; transform-origin: 50% 50%; stroke: rgb(0, 208, 255);" cx="244.092" cy="362.717" rx="175.886" ry="153.431" transform="matrix(0.944867, -0.327455, 0.030331, 1.047839, 2.86329, -5.726488)"/>
+  <ellipse style="stroke-width: 1; stroke: rgba(255, 255, 255, 0); fill: rgb(255, 255, 255); transform-origin: 244.092px 362.717px;" cx="244.092" cy="362.717" rx="120.341" ry="114.371" transform="matrix(0.944867, -0.327455, 0.030331, 1.047839, 0.716545, -7.871954)"/>
+  <g id="svg-1" transform="matrix(1, 0, 0, 1, -11.452988, -1.431536)">
+    <desc>Source: openclipart.org/detail/209545</desc>
+    <rect x="450.733" y="491.066" width="182.319" height="20.129" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-width: 0.617; transform-origin: 588.703px 516.923px;" transform="matrix(0.552771, -0.833333, 0.108323, 1.645764, -187.816207, -196.9414)"/>
+    <rect x="436.325" y="386.492" width="176.492" height="15.843" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-width: 0.617; transform-origin: 569.886px 406.842px;" transform="matrix(0.552771, -0.833333, 0.108323, 1.645764, -257.88141, 38.942576)"/>
+  </g>
+</svg>
